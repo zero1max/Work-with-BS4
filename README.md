@@ -1,2 +1,2 @@
 # Work-with-BS4
-<img src="./img.png" alt="BS4" width="300" height="200">
+<img src="./img.jpg" alt="BS4">
